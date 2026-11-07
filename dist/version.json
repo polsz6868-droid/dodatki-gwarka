@@ -1,7 +1,7 @@
 {
-  "version": "2.9",
+  "version": "3.0",
   "changes": [
-    "Przezroczysty czat sam przenosi się na wybrany róg mapy (zamiast zostawać z boku na czarnym tle).",
-    "Położenie, szerokość i wysokość przezroczystego czatu ustawisz w G → Wysuwane okna; można go też przesunąć uchwytem ⠿."
+    "Czat Lootloga może teraz siedzieć w prawej kolumnie gry, w wolnym miejscu pod torbami (G → Wysuwane okna → Położenie).",
+    "W tym miejscu czat jest zawsze klikalny, a nowe wiadomości przewijają się same, gdy jesteś na dole listy."
   ]
 }
