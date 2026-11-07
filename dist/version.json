@@ -1,6 +1,6 @@
 {
-  "version": "6.9",
+  "version": "7.0",
   "changes": [
-    "Timery: wyraźne, przyklejone nagłówki grup."
+    "Przegląd i poprawki: pewniejsze łączenie z Lootlogiem, ostrzeżenie o braku połączenia, mniej pracy w tle."
   ]
 }
