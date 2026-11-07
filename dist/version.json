@@ -1,7 +1,6 @@
 {
-  "version": "7.2",
+  "version": "7.3",
   "changes": [
-    "Motyw NI: nowe ramki gry (Lodowa, Leśna, Gildia Ognia i inne), prostsze ustawienia.",
-    "Czat Lootloga w stylu Gwarka."
+    "Czat Lootloga w stylu Gwarka działa też, gdy czat stoi w swoim miejscu."
   ]
 }
