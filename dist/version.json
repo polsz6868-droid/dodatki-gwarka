@@ -1,6 +1,6 @@
 {
-  "version": "6.3",
+  "version": "6.5",
   "changes": [
-    "Timery: zawsze od najwcześniejszego do najpóźniejszego (kliknięcie w wiersz przelogowuje)."
+    "Timery jak w Lootlogu: kolory biały/pomarańczowy/czerwony, liczba graczy przed czasem."
   ]
 }
