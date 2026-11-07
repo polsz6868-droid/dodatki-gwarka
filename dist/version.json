@@ -1,5 +1,5 @@
 {
-  "version": "4.7",
+  "version": "4.9",
   "changes": [
     "Prostsze menu: zostały tylko potrzebne ustawienia, reszta działa sama.",
     "Czat Lootloga: 4 tryby do wyboru (pod torbami, schowany, przezroczysty na mapie, bez zmian) i suwak rozmiaru liter.",
@@ -8,7 +8,8 @@
     "Nowy panel „Timery”: kompaktowe timery z Lootloga w stylu Gwarka, E2 na górze, bez przewijania.",
     "Powiadomienia Lootloga (zgłoszenia elit) w szklanym stylu Gwarka.",
     "Timery: każdy wiersz można pokolorować (kropka przed nazwą albo prawy klik).",
-    "Nowy motyw: spokojne ciemne szkło jak menu Gwarka, kolor tylko jako akcent (8 do wyboru).",
-    "Nowy dodatek „Podpisy graczy”: nick, poziom i klan nad graczami w stylu podpisów gry."
+    "Motyw NI przywrócony 1:1 jak w oryginalnym skrypcie, ustawienia w oknie G (bez przeładowania).",
+    "Nowy dodatek „Podpisy graczy”: nick, poziom i klan nad graczami w stylu podpisów gry.",
+    "Nowy dodatek „Ciemne mapy”: przyciemnione tło mapy z suwakiem."
   ]
 }
