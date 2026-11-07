@@ -1,7 +1,6 @@
 {
-  "version": "7.8",
+  "version": "7.9",
   "changes": [
-    "Motyw NI: okna gry już się nie rozjeżdżają (Rzemiosło, Ustawienia, Świat, Dziennik).",
-    "Ukryta ikonka pingu, ładniejsza kropka statusu mapy."
+    "Motyw NI: nowy wygląd okna łupów, dolny pasek okien (np. „Stary interfejs” w Ustawieniach) już nie ucięty."
   ]
 }
