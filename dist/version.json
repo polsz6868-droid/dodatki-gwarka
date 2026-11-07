@@ -1,5 +1,5 @@
 {
-  "version": "5.3",
+  "version": "5.6",
   "changes": [
     "Prostsze menu: zostały tylko potrzebne ustawienia, reszta działa sama.",
     "Czat Lootloga: 4 tryby do wyboru (pod torbami, schowany, przezroczysty na mapie, bez zmian) i suwak rozmiaru liter.",
@@ -13,6 +13,8 @@
     "Nowy dodatek „Ciemne mapy”: przyciemnione tło mapy z suwakiem.",
     "Podpisy graczy: jedna linijka, pod potworami i NPC, bez nakładania się na siebie.",
     "Timery: możesz ukryć wybrany timer (kropka albo prawy klik → Ukryj).",
-    "Motyw NI: okna gry (Zestawy, Rzemiosło, Świat, Dziennik…) w kolorach motywu, bez drewna i ornamentów."
+    "Motyw NI: okna gry (Zestawy, Rzemiosło, Świat, Dziennik…) w kolorach motywu, bez drewna i ornamentów.",
+    "Motyw NI: kula życia, pasek doświadczenia i tabliczka z nickiem w 4 stylach do wyboru (Kryształ, Neon, Runiczny, Prosty).",
+    "Motyw NI: ciemne napisy w oknach gry (np. Umiejętności) same się rozjaśniają."
   ]
 }
