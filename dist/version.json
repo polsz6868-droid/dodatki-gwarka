@@ -1,6 +1,6 @@
 {
-  "version": "6.6",
+  "version": "6.7",
   "changes": [
-    "Timery wg dokumentacji Lootloga: działa licznik graczy, osobno tropiciele i herosi eventowi."
+    "Timery odliczają jak Lootlog: format GG:MM:SS i równe tykanie co sekundę."
   ]
 }
