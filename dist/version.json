@@ -1,6 +1,6 @@
 {
-  "version": "7.3",
+  "version": "7.4",
   "changes": [
-    "Czat Lootloga w stylu Gwarka działa też, gdy czat stoi w swoim miejscu."
+    "Podpisy graczy: ikonka ⚔ – kliknij, żeby zaatakować gracza (jak „Atakuj” w menu)."
   ]
 }
