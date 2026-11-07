@@ -1,5 +1,5 @@
 {
-  "version": "4.9",
+  "version": "5.1",
   "changes": [
     "Prostsze menu: zostały tylko potrzebne ustawienia, reszta działa sama.",
     "Czat Lootloga: 4 tryby do wyboru (pod torbami, schowany, przezroczysty na mapie, bez zmian) i suwak rozmiaru liter.",
@@ -10,6 +10,8 @@
     "Timery: każdy wiersz można pokolorować (kropka przed nazwą albo prawy klik).",
     "Motyw NI przywrócony 1:1 jak w oryginalnym skrypcie, ustawienia w oknie G (bez przeładowania).",
     "Nowy dodatek „Podpisy graczy”: nick, poziom i klan nad graczami w stylu podpisów gry.",
-    "Nowy dodatek „Ciemne mapy”: przyciemnione tło mapy z suwakiem."
+    "Nowy dodatek „Ciemne mapy”: przyciemnione tło mapy z suwakiem.",
+    "Podpisy graczy: jedna linijka, pod potworami i NPC, bez nakładania się na siebie.",
+    "Timery: możesz ukryć wybrany timer (kropka albo prawy klik → Ukryj)."
   ]
 }
