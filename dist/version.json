@@ -1,6 +1,6 @@
 {
-  "version": "6.1",
+  "version": "6.3",
   "changes": [
-    "Timery: węższy panel (suwak szerokości), pulsowanie przy respie, klanowicze z Lootloga przy elicie."
+    "Timery: zawsze od najwcześniejszego do najpóźniejszego (kliknięcie w wiersz przelogowuje)."
   ]
 }
