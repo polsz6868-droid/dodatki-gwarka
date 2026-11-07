@@ -1,8 +1,7 @@
 {
-  "version": "3.1",
+  "version": "3.2",
   "changes": [
-    "Mniej okienek na ekranie: pasek „Przypisz postacie” i okienko „Elity II” są domyślnie schowane.",
-    "Przelogowanie na elitę zostaje przy timerach Lootloga (przyciski ⇄ / ↻ przy nazwie elity).",
-    "Postacie przypisujesz w G → Przelogowanie i G → Elity → postać; tam też włączysz pasek albo okienko z powrotem."
+    "Czat Lootloga: nowy suwak „Skala zawartości” – mniejsze litery i ikony, więcej wiadomości w tym samym miejscu (domyślnie 80%).",
+    "Ustawisz go w G → Wysuwane okna → Czat."
   ]
 }
