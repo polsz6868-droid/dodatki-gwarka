@@ -1,7 +1,0 @@
-{
-  "version": "2.6",
-  "changes": [
-    "Dodatki ładują się teraz z GitHuba i aktualizują same – w Tampermonkey jest tylko mały starter.",
-    "Po pobraniu nowej wersji pojawia się przycisk „Odśwież grę” z listą zmian."
-  ]
-}
