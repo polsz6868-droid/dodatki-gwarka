@@ -1,5 +1,5 @@
 {
-  "version": "4.5",
+  "version": "4.7",
   "changes": [
     "Prostsze menu: zostały tylko potrzebne ustawienia, reszta działa sama.",
     "Czat Lootloga: 4 tryby do wyboru (pod torbami, schowany, przezroczysty na mapie, bez zmian) i suwak rozmiaru liter.",
@@ -9,6 +9,6 @@
     "Powiadomienia Lootloga (zgłoszenia elit) w szklanym stylu Gwarka.",
     "Timery: każdy wiersz można pokolorować (kropka przed nazwą albo prawy klik).",
     "Nowy motyw: spokojne ciemne szkło jak menu Gwarka, kolor tylko jako akcent (8 do wyboru).",
-    "Nowy dodatek „Podpisy graczy”: nick, poziom i klan nad graczami (lżejsza wersja Sign Player)."
+    "Nowy dodatek „Podpisy graczy”: nick, poziom i klan nad graczami w stylu podpisów gry."
   ]
 }
