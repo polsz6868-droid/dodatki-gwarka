@@ -1,6 +1,7 @@
 {
-  "version": "7.9",
+  "version": "8.0",
   "changes": [
-    "Motyw NI: nowy wygląd okna łupów, dolny pasek okien (np. „Stary interfejs” w Ustawieniach) już nie ucięty."
+    "Rzemiosło: okno samo się wydłuża, żeby ulepszanie mieściło się bez przewijania.",
+    "Timery: nagłówki grup przewijają się razem z listą."
   ]
 }
