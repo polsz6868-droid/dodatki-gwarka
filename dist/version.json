@@ -1,6 +1,7 @@
 {
-  "version": "8.1",
+  "version": "8.2",
   "changes": [
-    "Podpisy graczy: zamiast ikonek ⚔ – kliknij w wroga, żeby go zaatakować."
+    "Okno łupów: animacje – karty wskakują po kolei, błysk, poświata rzadkich przedmiotów.",
+    "Czytelniejsza nazwa mapy, współrzędne i świat pod nickiem."
   ]
 }
