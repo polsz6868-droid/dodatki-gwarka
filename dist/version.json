@@ -1,6 +1,6 @@
 {
-  "version": "6.8",
+  "version": "6.9",
   "changes": [
-    "Timery: pewniejsze miganie po zgłoszeniu w powiadomieniach Lootloga."
+    "Timery: wyraźne, przyklejone nagłówki grup."
   ]
 }
