@@ -1,6 +1,6 @@
 {
-  "version": "5.9",
+  "version": "6.0",
   "changes": [
-    "Poprawki: działa przycisk przezroczystości okien gry, mniejsze obciążenie gry."
+    "Timery: 20 kolorów + własny, równe przyciski przelogowania."
   ]
 }
