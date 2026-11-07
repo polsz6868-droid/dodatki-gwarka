@@ -1,6 +1,7 @@
 {
-  "version": "7.4",
+  "version": "7.8",
   "changes": [
-    "Podpisy graczy: ikonka ⚔ – kliknij, żeby zaatakować gracza (jak „Atakuj” w menu)."
+    "Motyw NI: okna gry już się nie rozjeżdżają (Rzemiosło, Ustawienia, Świat, Dziennik).",
+    "Ukryta ikonka pingu, ładniejsza kropka statusu mapy."
   ]
 }
