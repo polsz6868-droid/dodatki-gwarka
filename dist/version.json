@@ -1,10 +1,12 @@
 {
-  "version": "4.1",
+  "version": "4.3",
   "changes": [
     "Prostsze menu: zostały tylko potrzebne ustawienia, reszta działa sama.",
     "Czat Lootloga: 4 tryby do wyboru (pod torbami, schowany, przezroczysty na mapie, bez zmian) i suwak rozmiaru liter.",
     "Elity: przyciski przelogowania tylko przy timerach, bez wyskakujących przypomnień; automatyczne przypisanie postaci z zastępcą (±13 lvl).",
     "Tryb wydajności jest teraz w zakładce „Dodatki”.",
-    "Nowy panel „Timery”: kompaktowe timery z Lootloga w stylu Gwarka, E2 na górze, bez przewijania."
+    "Nowy panel „Timery”: kompaktowe timery z Lootloga w stylu Gwarka, E2 na górze, bez przewijania.",
+    "Powiadomienia Lootloga (zgłoszenia elit) w szklanym stylu Gwarka.",
+    "Timery: każdy wiersz można pokolorować (kropka przed nazwą albo prawy klik)."
   ]
 }
