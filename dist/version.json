@@ -1,7 +1,6 @@
 {
-  "version": "8.0",
+  "version": "8.1",
   "changes": [
-    "Rzemiosło: okno samo się wydłuża, żeby ulepszanie mieściło się bez przewijania.",
-    "Timery: nagłówki grup przewijają się razem z listą."
+    "Podpisy graczy: zamiast ikonek ⚔ – kliknij w wroga, żeby go zaatakować."
   ]
 }
