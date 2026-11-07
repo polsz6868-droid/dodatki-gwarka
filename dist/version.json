@@ -1,6 +1,6 @@
 {
-  "version": "6.7",
+  "version": "6.8",
   "changes": [
-    "Timery odliczają jak Lootlog: format GG:MM:SS i równe tykanie co sekundę."
+    "Timery: pewniejsze miganie po zgłoszeniu w powiadomieniach Lootloga."
   ]
 }
