@@ -1,7 +1,6 @@
 {
-  "version": "3.3",
+  "version": "3.4",
   "changes": [
-    "Nowa zakładka „Wydajność” (G → Wydajność): płynność gry (FPS), zacięcia strony i ile czasu zajmuje każdy dodatek.",
-    "Tryb wydajności jednym przełącznikiem: bez rozmycia pod panelami i bez ciągłych animacji, rzadsze sprawdzanie okien."
+    "Motyw: nowy przycisk „Zapisz budowę otwartych okien do pliku” (G → Motyw) – potrzebny, żeby dopisać motyw do okien gry (Rzemiosło, Umiejętności, Świat, Konfiguracja, Aktualności) i czatu gry."
   ]
 }
