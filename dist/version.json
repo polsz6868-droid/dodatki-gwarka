@@ -1,6 +1,9 @@
 {
-  "version": "3.4",
+  "version": "4.0",
   "changes": [
-    "Motyw: nowy przycisk „Zapisz budowę otwartych okien do pliku” (G → Motyw) – potrzebny, żeby dopisać motyw do okien gry (Rzemiosło, Umiejętności, Świat, Konfiguracja, Aktualności) i czatu gry."
+    "Prostsze menu: zostały tylko potrzebne ustawienia, reszta działa sama.",
+    "Czat Lootloga: 4 tryby do wyboru (pod torbami, schowany, przezroczysty na mapie, bez zmian) i suwak rozmiaru liter.",
+    "Elity: przyciski przelogowania tylko przy timerach, bez wyskakujących przypomnień; automatyczne przypisanie postaci z zastępcą (±13 lvl).",
+    "Tryb wydajności jest teraz w zakładce „Dodatki”."
   ]
 }
