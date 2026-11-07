@@ -1,9 +1,7 @@
 {
-  "version": "2.8",
+  "version": "2.9",
   "changes": [
-    "Czat Lootloga: do wyboru 3 sposoby – chowany za krawędź, przezroczysty nad mapą albo zwykły (G → Wysuwane okna).",
-    "Chowany czat pokazuje nowe wiadomości w małych dymkach przy zakładce, więc nic nie umyka.",
-    "Przezroczysty czat: kliknięcia przechodzą do gry, po przytrzymaniu myszki nad nim robi się wyraźny.",
-    "Nowa opcja „Tylko dolna część ekranu” z suwakiem wysokości."
+    "Przezroczysty czat sam przenosi się na wybrany róg mapy (zamiast zostawać z boku na czarnym tle).",
+    "Położenie, szerokość i wysokość przezroczystego czatu ustawisz w G → Wysuwane okna; można go też przesunąć uchwytem ⠿."
   ]
 }
