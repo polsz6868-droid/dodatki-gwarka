@@ -1,6 +1,6 @@
 {
-  "version": "6.5",
+  "version": "6.6",
   "changes": [
-    "Timery jak w Lootlogu: kolory biały/pomarańczowy/czerwony, liczba graczy przed czasem."
+    "Timery wg dokumentacji Lootloga: działa licznik graczy, osobno tropiciele i herosi eventowi."
   ]
 }
