@@ -1,6 +1,6 @@
 {
-  "version": "6.0",
+  "version": "6.1",
   "changes": [
-    "Timery: 20 kolorów + własny, równe przyciski przelogowania."
+    "Timery: węższy panel (suwak szerokości), pulsowanie przy respie, klanowicze z Lootloga przy elicie."
   ]
 }
