@@ -1,6 +1,6 @@
 {
-  "version": "9.2",
+  "version": "9.3",
   "changes": [
-    "Czat gry: „Nakładka na grę” – przezroczysty czat nad mapą, ukrywanie klawiszem, przesuwanie, Shift+PPM w nick = zaproszenie."
+    "Nowość: „Wróg na mapie” – komunikat z nickiem i dźwięk na mapach żółtych i czerwonych."
   ]
 }
