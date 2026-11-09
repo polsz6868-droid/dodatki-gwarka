@@ -1,6 +1,6 @@
 {
-  "version": "8.5",
+  "version": "8.6",
   "changes": [
-    "Podpisy graczy: „Rysuj pod graczami” znowu pokazuje nicki."
+    "Timery: pod herosami mapa wykrycia i kto wykrył (jak „Wykryci herosi” w Lootlogu)."
   ]
 }
