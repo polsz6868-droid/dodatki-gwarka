@@ -1,6 +1,6 @@
 {
-  "version": "8.7",
+  "version": "8.8",
   "changes": [
-    "Timery: mapa pod herosem tylko przy prawdziwym wykryciu (bez zbitych i niewykrytych)."
+    "Timery: wynik wykrywacza herosów (mapa, kto wykrył, kiedy) pod herosem – jak w oknie Lootloga."
   ]
 }
