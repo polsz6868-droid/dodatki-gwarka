@@ -1,6 +1,6 @@
 {
-  "version": "8.8",
+  "version": "8.9",
   "changes": [
-    "Timery: wynik wykrywacza herosów (mapa, kto wykrył, kiedy) pod herosem – jak w oknie Lootloga."
+    "Timery: przycisk „Skopiuj dane herosów” w ustawieniach (do dokończenia wykrywacza)."
   ]
 }
