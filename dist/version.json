@@ -1,6 +1,6 @@
 {
-  "version": "9.1",
+  "version": "9.2",
   "changes": [
-    "Motyw NI: czat gry niższy i półprzezroczysty (G → Motyw NI → Czat gry)."
+    "Czat gry: „Nakładka na grę” – przezroczysty czat nad mapą, ukrywanie klawiszem, przesuwanie, Shift+PPM w nick = zaproszenie."
   ]
 }
