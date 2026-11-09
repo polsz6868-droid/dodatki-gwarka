@@ -1,7 +1,6 @@
 {
-  "version": "8.2",
+  "version": "8.5",
   "changes": [
-    "Okno łupów: animacje – karty wskakują po kolei, błysk, poświata rzadkich przedmiotów.",
-    "Czytelniejsza nazwa mapy, współrzędne i świat pod nickiem."
+    "Podpisy graczy: „Rysuj pod graczami” znowu pokazuje nicki."
   ]
 }
