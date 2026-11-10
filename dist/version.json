@@ -1,6 +1,6 @@
 {
-  "version": "9.7",
+  "version": "10.2",
   "changes": [
-    "Motyw NI: przyciski-ikonki gry w stylu motywu (ikony w kolorze motywu, białe albo kolorowe)."
+    "Czat-nakładka: przycisk „▾ zwiń” – zostaje tylko pole pisania."
   ]
 }
