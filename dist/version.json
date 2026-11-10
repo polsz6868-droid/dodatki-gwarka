@@ -1,7 +1,7 @@
 {
-  "version": "12.2",
-  "size": 265382,
+  "version": "12.3",
+  "size": 266089,
   "changes": [
-    "Menu G: ustawienia każdego dodatku w zwijanych sekcjach (kliknij nagłówek) – domyślnie zwinięte, pamięta, co otworzyłeś; „rozwiń / zwiń wszystko” na górze."
+    "Czat-nakładka: Enter od razu ustawia pisanie w nakładce (gra nie rozwija już starego czatu w kolumnie)."
   ]
 }
