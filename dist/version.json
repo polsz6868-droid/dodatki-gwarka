@@ -1,7 +1,8 @@
 {
-  "version": "13.3",
-  "size": 273293,
+  "version": "13.4",
+  "size": 273940,
   "changes": [
-    "Nowy dodatek „Okno gry – dowolny rozmiar”: w trybie okienkowym gry rozciągasz okno za róg jak w Windowsie; dwuklik = dopasuj do ekranu."
+    "Zapraszanie do grupy: nowa opcja „Jak przycisk w grze” (jedno zapytanie gry); wrogowie frakcji też pomijani, sojusznicy frakcji liczą się jako „przyjaciele”.",
+    "Czat-nakładka: Enter używa tego samego wejścia w pisanie co gra (bez rozwijania czatu)."
   ]
 }
