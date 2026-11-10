@@ -1,8 +1,7 @@
 {
-  "version": "10.6",
-  "size": 247364,
+  "version": "10.7",
+  "size": 249498,
   "changes": [
-    "Tabliczka „Zorza”: efekt motywu – lód zamarza (szron, sople, śnieg), ogień płonie na dole, a także las, złoto, krew, woda, magia, dym.",
-    "Tabliczka „Zorza”: bez diamencików; 10 efektów do włączania osobno (m.in. tęczowy nick, drobinki, oddychająca poświata, mrugająca obwódka) i suwak tempa."
+    "Tabliczka: większy, wyraźniejszy nick, a poziom i profesja w osobnej świecącej plakietce."
   ]
 }
