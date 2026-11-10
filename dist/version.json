@@ -1,7 +1,8 @@
 {
-  "version": "15.2",
-  "size": 313775,
+  "version": "15.3",
+  "size": 316045,
   "changes": [
+    "Suwak przy prawej krawędzi czatu: przeciągnij, żeby zmienić szerokość czatu (zapamiętuje się); dwuklik przywraca domyślną.",
     "Klawisz C zwija i rozwija czat (nakładkę) zamiast przełączać wygląd czatu gry między kolumną a nakładką. Skrót można zmienić w „Skróty klawiszowe” → Czat.",
     "Zwinięty czat: obok nazwy kanału („Globalny”, „Lokalny”…) widać ostatnią wiadomość – nowa na chwilę mignie; kliknięcie w nią rozwija czat.",
     "Stonowane motywy nie są już wypłowiałe: mocniejsze, pełniejsze kolory akcentu, poświaty, paska doświadczenia i lekko zabarwione panele – nadal spokojne, bez jaskrawości.",
