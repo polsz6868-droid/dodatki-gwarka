@@ -1,7 +1,7 @@
 {
-  "version": "11.9",
-  "size": 255201,
+  "version": "12.1",
+  "size": 262930,
   "changes": [
-    "Czat-nakładka: znowu da się przewinąć czat do góry (błąd z 11.4)."
+    "Nowy dodatek „Szukaj w torbach”: pole obok toreb – wpisz nazwę, pasujące przedmioty się podświetlą, a na torbach widać liczbę trafień."
   ]
 }
