@@ -1,7 +1,8 @@
 {
-  "version": "15.3",
-  "size": 316045,
+  "version": "15.4",
+  "size": 317438,
   "changes": [
+    "Przy rozwiniętym czacie widok mapy jest przesunięty tak, że postać stoi 2 kratki bardziej w prawo (bliżej środka wolnego miejsca). Liczbę kratek (0–6) ustawisz w Motyw → Czat gry.",
     "Suwak przy prawej krawędzi czatu: przeciągnij, żeby zmienić szerokość czatu (zapamiętuje się); dwuklik przywraca domyślną.",
     "Klawisz C zwija i rozwija czat (nakładkę) zamiast przełączać wygląd czatu gry między kolumną a nakładką. Skrót można zmienić w „Skróty klawiszowe” → Czat.",
     "Zwinięty czat: obok nazwy kanału („Globalny”, „Lokalny”…) widać ostatnią wiadomość – nowa na chwilę mignie; kliknięcie w nią rozwija czat.",
