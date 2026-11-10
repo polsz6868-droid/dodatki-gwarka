@@ -1,7 +1,7 @@
 {
-  "version": "11.6",
-  "size": 252182,
+  "version": "11.9",
+  "size": 255201,
   "changes": [
-    "Timery: kolejność jak w Lootlogu – najpierw tytani (i kolosy), potem herosi, herosi eventowi, tropiciele, na końcu Elity II."
+    "Czat-nakładka: znowu da się przewinąć czat do góry (błąd z 11.4)."
   ]
 }
