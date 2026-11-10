@@ -1,7 +1,8 @@
 {
-  "version": "14.9",
-  "size": 310178,
+  "version": "15.0",
+  "size": 310350,
   "changes": [
+    "Stonowane motywy nie są już wypłowiałe: mocniejsze, pełniejsze kolory akcentu, poświaty, paska doświadczenia i lekko zabarwione panele – nadal spokojne, bez jaskrawości.",
     "Nowy dodatek „Lootlog – wielkość okien”: Ctrl + kółko myszy nad oknem Lootloga powiększa/pomniejsza to okno; w ustawieniach suwak dla wszystkich okien naraz i dla każdego osobno.",
     "Dymek timerów (po najechaniu na potwora) czytelniejszy: większy i jaśniejszy tekst, pełne ciemne tło, więcej odstępu.",
     "Tabliczka z nickiem: klejnot z ozdobnikami wisi teraz pod tabliczką i nie zasłania złota ani przycisków. Usunięto obramowanie zakładek toreb.",
