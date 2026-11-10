@@ -1,8 +1,8 @@
 {
-  "version": "10.9",
-  "size": 262910,
+  "version": "11.0",
+  "size": 276970,
   "changes": [
-    "Nowe ramki przedmiotów (wg szablonu gry): Kryształ i Runy – kolor wg rzadkości, romby pokazują poziom ulepszenia (+1…+5).",
-    "Legendarne i artefakty mogą delikatnie świecić (do wyłączenia). Wybór: G → Motyw NI → Ramki przedmiotów."
+    "Nowa zakładka „Ramki przedmiotów” w menu G: 4 wyglądy (Kryształ, Runy, Linia, Poświata) albo ramki z gry.",
+    "Ramki: romby ulepszenia, pulsujące legendy, widoczność ramek i wybór, na których rzadkościach je pokazywać – zmiany od razu, bez F5."
   ]
 }
