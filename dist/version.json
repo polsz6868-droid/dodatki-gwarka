@@ -1,7 +1,9 @@
 {
-  "version": "14.5",
-  "size": 305773,
+  "version": "14.7",
+  "size": 306317,
   "changes": [
+    "Naprawione okna (np. Świat, ustawienia): okno robiło się przezroczyste i prześwitywała mapa – teraz rama i tło okna są zawsze pełne, w kolorze motywu.",
+    "Metalowe listwy i obramowania paneli są teraz cienkie i delikatne: listwa 1,5 px z drobnym rombem co kawałek zamiast grubej szyny z nitami, cieńsze ramki toreb/ekwipunku z małymi rombami w rogach.",
     "Kuty metal w całym interfejsie: wracają ramy okien z okuciami, nowe obramowania paneli prawej kolumny (zakładki toreb, torba, ekwipunek, statystyki) i metalowe listwy oddzielające górny/dolny pasek oraz prawą kolumnę od mapy – nic się już nie zlewa.",
     "Usunięto metalową obręcz wokół kuli życia i małych kul.",
     "Usunięto ramy okien (styl „Fantasy MMO” i „Kuty metal”) – okna wyglądają znów jak w 14.0. Ozdoby kul i tabliczki z 14.0 zostają.",
