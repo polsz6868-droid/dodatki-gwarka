@@ -1,8 +1,7 @@
 {
-  "version": "11.1",
-  "size": 274908,
+  "version": "11.2",
+  "size": 248509,
   "changes": [
-    "Ramki przedmiotów: poziom ulepszenia jako wyraźna plakietka „+1…+5” w prawym górnym rogu (+5 na jasnym tle), zamiast małych rombów.",
-    "Ramki przedmiotów: spokojniej – świecenie domyślnie wyłączone, a po włączeniu wolne i delikatne."
+    "Usunięto dodatek „Ramki przedmiotów” – wracają oryginalne ramki gry."
   ]
 }
