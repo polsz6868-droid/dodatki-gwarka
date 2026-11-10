@@ -1,7 +1,7 @@
 {
-  "version": "12.3",
-  "size": 266089,
+  "version": "12.8",
+  "size": 263589,
   "changes": [
-    "Czat-nakładka: Enter od razu ustawia pisanie w nakładce (gra nie rozwija już starego czatu w kolumnie)."
+    "Tabliczka: poziom (np. 217t) tej samej wielkości co nick."
   ]
 }
