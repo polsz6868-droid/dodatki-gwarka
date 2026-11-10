@@ -1,7 +1,7 @@
 {
-  "version": "11.5",
-  "size": 252010,
+  "version": "11.6",
+  "size": 252182,
   "changes": [
-    "Czat-nakładka: ikonki przełączania kanałów w jednym rzędzie z nazwą kanału („Lokalny”) – więcej miejsca na wiadomości."
+    "Timery: kolejność jak w Lootlogu – najpierw tytani (i kolosy), potem herosi, herosi eventowi, tropiciele, na końcu Elity II."
   ]
 }
