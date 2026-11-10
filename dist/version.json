@@ -1,7 +1,7 @@
 {
-  "version": "12.1",
-  "size": 262930,
+  "version": "12.2",
+  "size": 265382,
   "changes": [
-    "Nowy dodatek „Szukaj w torbach”: pole obok toreb – wpisz nazwę, pasujące przedmioty się podświetlą, a na torbach widać liczbę trafień."
+    "Menu G: ustawienia każdego dodatku w zwijanych sekcjach (kliknij nagłówek) – domyślnie zwinięte, pamięta, co otworzyłeś; „rozwiń / zwiń wszystko” na górze."
   ]
 }
