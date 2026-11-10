@@ -1,8 +1,7 @@
 {
-  "version": "11.3",
-  "size": 250776,
+  "version": "11.4",
+  "size": 251135,
   "changes": [
-    "Tabliczka: nick drukowanymi literami ozdobną czcionką (domyślnie Cinzel).",
-    "Motyw NI → Tabliczka z nickiem: wybór czcionki nicku (8 do wyboru) i przełącznik „drukowanymi literami”."
+    "Czat-nakładka: przy małej liczbie wiadomości (np. kanał grupowy) są przy polu pisania, a nie ucięte u góry."
   ]
 }
