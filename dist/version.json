@@ -1,8 +1,8 @@
 {
-  "version": "11.0",
-  "size": 276970,
+  "version": "11.1",
+  "size": 274908,
   "changes": [
-    "Nowa zakładka „Ramki przedmiotów” w menu G: 4 wyglądy (Kryształ, Runy, Linia, Poświata) albo ramki z gry.",
-    "Ramki: romby ulepszenia, pulsujące legendy, widoczność ramek i wybór, na których rzadkościach je pokazywać – zmiany od razu, bez F5."
+    "Ramki przedmiotów: poziom ulepszenia jako wyraźna plakietka „+1…+5” w prawym górnym rogu (+5 na jasnym tle), zamiast małych rombów.",
+    "Ramki przedmiotów: spokojniej – świecenie domyślnie wyłączone, a po włączeniu wolne i delikatne."
   ]
 }
