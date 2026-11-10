@@ -1,7 +1,7 @@
 {
-  "version": "10.7",
-  "size": 249498,
+  "version": "10.8",
+  "size": 248507,
   "changes": [
-    "Tabliczka: większy, wyraźniejszy nick, a poziom i profesja w osobnej świecącej plakietce."
+    "Tabliczka: poziom (np. 217t) w tym samym stylu co nick, bez ramki."
   ]
 }
