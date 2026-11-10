@@ -1,8 +1,7 @@
 {
-  "version": "13.4",
-  "size": 273940,
+  "version": "13.6",
+  "size": 279714,
   "changes": [
-    "Zapraszanie do grupy: nowa opcja „Jak przycisk w grze” (jedno zapytanie gry); wrogowie frakcji też pomijani, sojusznicy frakcji liczą się jako „przyjaciele”.",
-    "Czat-nakładka: Enter używa tego samego wejścia w pisanie co gra (bez rozwijania czatu)."
+    "Przypomnienia o nagrodach: sprawdzane raz, po wejściu postacią do gry (przelogowaniu) – w trakcie gry nic już nie wyskakuje."
   ]
 }
