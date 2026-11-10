@@ -1,6 +1,8 @@
 {
-  "version": "10.2",
+  "version": "10.3",
+  "size": 226550,
   "changes": [
-    "Czat-nakładka: przycisk „▾ zwiń” – zostaje tylko pole pisania."
+    "Wróg na mapie: jedno okienko z listą wrogów (zamiast osobnego na każdego), jeden dźwięk naraz.",
+    "Okienko wroga można przesunąć za nagłówek – zapamiętuje miejsce."
   ]
 }
