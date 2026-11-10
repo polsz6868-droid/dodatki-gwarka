@@ -1,7 +1,7 @@
 {
-  "version": "12.9",
-  "size": 263673,
+  "version": "13.1",
+  "size": 266118,
   "changes": [
-    "Tabliczka: nick i poziom jako jeden napis – wspólny kolor i połysk, równo wyśrodkowane."
+    "Wspólne czekanie na wczytanie gry dla wszystkich dodatków (zamiast osobnego w każdym) – mniej pracy w tle przy wchodzeniu do gry."
   ]
 }
