@@ -1,7 +1,8 @@
 {
-  "version": "10.8",
-  "size": 248507,
+  "version": "10.9",
+  "size": 262910,
   "changes": [
-    "Tabliczka: poziom (np. 217t) w tym samym stylu co nick, bez ramki."
+    "Nowe ramki przedmiotów (wg szablonu gry): Kryształ i Runy – kolor wg rzadkości, romby pokazują poziom ulepszenia (+1…+5).",
+    "Legendarne i artefakty mogą delikatnie świecić (do wyłączenia). Wybór: G → Motyw NI → Ramki przedmiotów."
   ]
 }
