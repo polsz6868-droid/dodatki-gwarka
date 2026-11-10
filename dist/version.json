@@ -1,7 +1,9 @@
 {
-  "version": "15.0",
-  "size": 310350,
+  "version": "15.2",
+  "size": 313775,
   "changes": [
+    "Klawisz C zwija i rozwija czat (nakładkę) zamiast przełączać wygląd czatu gry między kolumną a nakładką. Skrót można zmienić w „Skróty klawiszowe” → Czat.",
+    "Zwinięty czat: obok nazwy kanału („Globalny”, „Lokalny”…) widać ostatnią wiadomość – nowa na chwilę mignie; kliknięcie w nią rozwija czat.",
     "Stonowane motywy nie są już wypłowiałe: mocniejsze, pełniejsze kolory akcentu, poświaty, paska doświadczenia i lekko zabarwione panele – nadal spokojne, bez jaskrawości.",
     "Nowy dodatek „Lootlog – wielkość okien”: Ctrl + kółko myszy nad oknem Lootloga powiększa/pomniejsza to okno; w ustawieniach suwak dla wszystkich okien naraz i dla każdego osobno.",
     "Dymek timerów (po najechaniu na potwora) czytelniejszy: większy i jaśniejszy tekst, pełne ciemne tło, więcej odstępu.",
