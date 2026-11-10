@@ -1,7 +1,7 @@
 {
-  "version": "12.8",
-  "size": 263589,
+  "version": "12.9",
+  "size": 263673,
   "changes": [
-    "Tabliczka: poziom (np. 217t) tej samej wielkości co nick."
+    "Tabliczka: nick i poziom jako jeden napis – wspólny kolor i połysk, równo wyśrodkowane."
   ]
 }
