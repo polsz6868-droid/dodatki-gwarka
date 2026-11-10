@@ -1,7 +1,9 @@
 {
-  "version": "14.4",
-  "size": 303027,
+  "version": "14.5",
+  "size": 305773,
   "changes": [
+    "Kuty metal w całym interfejsie: wracają ramy okien z okuciami, nowe obramowania paneli prawej kolumny (zakładki toreb, torba, ekwipunek, statystyki) i metalowe listwy oddzielające górny/dolny pasek oraz prawą kolumnę od mapy – nic się już nie zlewa.",
+    "Usunięto metalową obręcz wokół kuli życia i małych kul.",
     "Usunięto ramy okien (styl „Fantasy MMO” i „Kuty metal”) – okna wyglądają znów jak w 14.0. Ozdoby kul i tabliczki z 14.0 zostają.",
     "Ramy „Fantasy MMO” subtelniejsze: węższa i bardziej matowa złota rama, mniejsze medaliony w rogach, mniej ćwieków, niższa wstęga pod tytułem, cieńsze złocenia przycisków.",
     "Nowy styl ram „Fantasy MMO” (domyślny): złota rama ze skórzanym pasem, ćwiekami i medalionami z klejnotem w rogach, wstęga pod tytułem okna, złocone przyciski. Poprzedni „Kuty metal” do wybrania w Motyw → Styl paska i kuli życia.",
