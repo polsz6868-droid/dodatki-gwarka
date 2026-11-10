@@ -1,7 +1,8 @@
 {
-  "version": "15.4",
-  "size": 317438,
+  "version": "15.5",
+  "size": 317814,
   "changes": [
+    "Timery: miganie po zgłoszeniu w Powiadomieniach tylko wtedy, gdy potwór naprawdę może stać (trwa okno respu) i zgłoszenie ma mniej niż 30 min – koniec migania potworów, które jeszcze nie respią.",
     "Przy rozwiniętym czacie widok mapy jest przesunięty tak, że postać stoi 2 kratki bardziej w prawo (bliżej środka wolnego miejsca). Liczbę kratek (0–6) ustawisz w Motyw → Czat gry.",
     "Suwak przy prawej krawędzi czatu: przeciągnij, żeby zmienić szerokość czatu (zapamiętuje się); dwuklik przywraca domyślną.",
     "Klawisz C zwija i rozwija czat (nakładkę) zamiast przełączać wygląd czatu gry między kolumną a nakładką. Skrót można zmienić w „Skróty klawiszowe” → Czat.",
