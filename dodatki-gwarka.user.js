@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Dodatki Gwarka
 // @namespace    dodatki-gwarka
-// @version      3.0
+// @version      3.1
 // @description  Zestaw dodatków do Margonem. Przycisk „G” w grze otwiera ustawienia. Dodatki aktualizują się same.
 // @author       Gwarek
 // @match        *://*.margonem.pl/*
@@ -26,6 +26,7 @@
   'use strict';
   const REPO = 'https://raw.githubusercontent.com/polsz6868-droid/dodatki-gwarka/main/dist/';
   const CHECK_EVERY = 30 * 60 * 1000;                     // sprawdzanie w tle co 30 minut
+  const SKIP_FRESH = 15 * 60 * 1000;                      // przy przelogowaniu: nie sprawdzaj, jeśli sprawdzano < 15 min temu
 
   const get = (k, d) => GM_getValue('gwl.' + k, d);
   const set = (k, v) => GM_setValue('gwl.' + k, v);
@@ -74,6 +75,7 @@
 
   const cached = get('code', '');
   if (cached) run(cached);                                // od razu z kopii – gra nie czeka na internet
-  check(false);
+  // nic nie pobieramy przy każdym przelogowaniu: wersję sprawdzamy dopiero, gdy minęło 15 min od ostatniego sprawdzenia
+  if (!cached || Date.now() - get('last', 0) > SKIP_FRESH) check(false);
   setInterval(() => { if (!document.hidden) check(false); }, CHECK_EVERY);
 })();
