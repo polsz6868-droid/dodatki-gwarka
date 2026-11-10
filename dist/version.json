@@ -1,7 +1,8 @@
 {
-  "version": "11.2",
-  "size": 248509,
+  "version": "11.3",
+  "size": 250776,
   "changes": [
-    "Usunięto dodatek „Ramki przedmiotów” – wracają oryginalne ramki gry."
+    "Tabliczka: nick drukowanymi literami ozdobną czcionką (domyślnie Cinzel).",
+    "Motyw NI → Tabliczka z nickiem: wybór czcionki nicku (8 do wyboru) i przełącznik „drukowanymi literami”."
   ]
 }
