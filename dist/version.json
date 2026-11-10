@@ -1,7 +1,8 @@
 {
-  "version": "14.7",
-  "size": 306317,
+  "version": "14.8",
+  "size": 306478,
   "changes": [
+    "Tabliczka z nickiem: klejnot z ozdobnikami wisi teraz pod tabliczką i nie zasłania złota ani przycisków. Usunięto obramowanie zakładek toreb.",
     "Naprawione okna (np. Świat, ustawienia): okno robiło się przezroczyste i prześwitywała mapa – teraz rama i tło okna są zawsze pełne, w kolorze motywu.",
     "Metalowe listwy i obramowania paneli są teraz cienkie i delikatne: listwa 1,5 px z drobnym rombem co kawałek zamiast grubej szyny z nitami, cieńsze ramki toreb/ekwipunku z małymi rombami w rogach.",
     "Kuty metal w całym interfejsie: wracają ramy okien z okuciami, nowe obramowania paneli prawej kolumny (zakładki toreb, torba, ekwipunek, statystyki) i metalowe listwy oddzielające górny/dolny pasek oraz prawą kolumnę od mapy – nic się już nie zlewa.",
