@@ -1,7 +1,7 @@
 {
-  "version": "13.1",
-  "size": 266118,
+  "version": "13.2",
+  "size": 267293,
   "changes": [
-    "Wspólne czekanie na wczytanie gry dla wszystkich dodatków (zamiast osobnego w każdym) – mniej pracy w tle przy wchodzeniu do gry."
+    "Timery: odczyt okna „Wykryci herosi” dopasowany do nowego Lootloga (1.3): mapa, „grasuje / pojawi się”, kto wykrył, ile minut temu, niepotwierdzone; zbite i prawdopodobnie zbite znikają."
   ]
 }
