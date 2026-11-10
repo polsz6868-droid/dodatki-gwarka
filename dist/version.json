@@ -1,8 +1,8 @@
 {
-  "version": "10.5",
-  "size": 236938,
+  "version": "10.6",
+  "size": 247364,
   "changes": [
-    "Tabliczka z nickiem „Zorza”: płynąca zorza w tle, mieniący się nick, klejnot, iskierki, światło na krawędzi, świecące złoto i łuski.",
-    "Motyw NI → Tabliczka z nickiem: wybór Zorza / Z paska / Spokojna."
+    "Tabliczka „Zorza”: efekt motywu – lód zamarza (szron, sople, śnieg), ogień płonie na dole, a także las, złoto, krew, woda, magia, dym.",
+    "Tabliczka „Zorza”: bez diamencików; 10 efektów do włączania osobno (m.in. tęczowy nick, drobinki, oddychająca poświata, mrugająca obwódka) i suwak tempa."
   ]
 }
