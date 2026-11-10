@@ -1,7 +1,7 @@
 {
-  "version": "13.6",
-  "size": 279714,
+  "version": "14.0",
+  "size": 302423,
   "changes": [
-    "Przypomnienia o nagrodach: sprawdzane raz, po wejściu postacią do gry (przelogowaniu) – w trakcie gry nic już nie wyskakuje."
+    "HUD jak rysowany: metalowe, grawerowane obręcze z klejnotami na kuli życia i małych kulach, rama tabliczki z ornamentem i klejnotem, ziarno faktury – w kolorach motywu."
   ]
 }
