@@ -1,7 +1,7 @@
 {
-  "version": "11.4",
-  "size": 251135,
+  "version": "11.5",
+  "size": 252010,
   "changes": [
-    "Czat-nakładka: przy małej liczbie wiadomości (np. kanał grupowy) są przy polu pisania, a nie ucięte u góry."
+    "Czat-nakładka: ikonki przełączania kanałów w jednym rzędzie z nazwą kanału („Lokalny”) – więcej miejsca na wiadomości."
   ]
 }
