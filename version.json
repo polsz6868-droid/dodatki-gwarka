@@ -1,6 +1,7 @@
 {
-  "version": "8.9",
+  "version": "10.2",
+  "size": 223106,
   "changes": [
-    "Timery: przycisk „Skopiuj dane herosów” w ustawieniach (do dokończenia wykrywacza)."
+    "Czat-nakładka: przycisk „▾ zwiń” – zostaje tylko pole pisania."
   ]
 }
