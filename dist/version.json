@@ -1,7 +1,7 @@
 {
-  "version": "14.0",
-  "size": 302423,
+  "version": "14.1",
+  "size": 307724,
   "changes": [
-    "HUD jak rysowany: metalowe, grawerowane obręcze z klejnotami na kuli życia i małych kulach, rama tabliczki z ornamentem i klejnotem, ziarno faktury – w kolorach motywu."
+    "Cały motyw „rysowany”: okna gry dostały kutą metalową ramę z okuciami i klejnotami w rogach (w miejscu starej ramy, bez przesuwania okien), fakturę tła, ornamenty przy tytułach; to samo w paskach HUD, menu G i panelu timerów."
   ]
 }
