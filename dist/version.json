@@ -1,8 +1,8 @@
 {
-  "version": "10.3",
-  "size": 226550,
+  "version": "10.4",
+  "size": 226923,
   "changes": [
-    "Wróg na mapie: jedno okienko z listą wrogów (zamiast osobnego na każdego), jeden dźwięk naraz.",
-    "Okienko wroga można przesunąć za nagłówek – zapamiętuje miejsce."
+    "Lootlog: wykrycia herosów czytane też w nowym formacie (od 07.11 bez profesji).",
+    "Lootlog: odczyt danych po pełnym wczytaniu gry, gracze online nie gubią odświeżenia, w podpowiedzi timera wszyscy zgłaszający."
   ]
 }
