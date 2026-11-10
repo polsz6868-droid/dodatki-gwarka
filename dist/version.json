@@ -1,8 +1,8 @@
 {
-  "version": "10.4",
-  "size": 226923,
+  "version": "10.5",
+  "size": 236938,
   "changes": [
-    "Lootlog: wykrycia herosów czytane też w nowym formacie (od 07.11 bez profesji).",
-    "Lootlog: odczyt danych po pełnym wczytaniu gry, gracze online nie gubią odświeżenia, w podpowiedzi timera wszyscy zgłaszający."
+    "Tabliczka z nickiem „Zorza”: płynąca zorza w tle, mieniący się nick, klejnot, iskierki, światło na krawędzi, świecące złoto i łuski.",
+    "Motyw NI → Tabliczka z nickiem: wybór Zorza / Z paska / Spokojna."
   ]
 }
