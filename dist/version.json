@@ -1,7 +1,11 @@
 {
-  "version": "15.8",
-  "size": 326542,
+  "version": "16.2",
+  "size": 329438,
   "changes": [
+    "Ulepszanie: Spacja raz – „Ulepsz”, Spacja drugi raz – „Ok” w okienku „Operacja jest nieodwracalna” (tylko tuż po Ulepsz).",
+    "Ulepszanie: pulsowanie przycisku „Ulepsz” lepiej widoczne (zielona obwódka i poświata) i pewniejsze wykrywanie pełnej siatki składników.",
+    "Ulepszanie: gdy wszystkie miejsca na składniki są zajęte, przycisk „Ulepsz” pulsuje na zielono; Spacja (do zmiany) klika „Ulepsz”, gdy okno jest otwarte.",
+    "Okienko ulepszania: limit dzienny czytany też z licznika w oknie Ulepszania i z danych gry w drugim miejscu – wcześniej mógł się nie pokazywać.",
     "Okienko ulepszania pokazuje, ile przedmiotów zostało dziś z dziennego limitu (np. „Zostało dziś: 1766 / 2000”); kolor żółty przy końcówce, czerwony po wyczerpaniu.",
     "Szybkie ulepszanie: małe okienko w grze z polem – przeciągnij na nie przedmiot z torby, a dodatek zapamięta, który ulepszasz. Klik w pole (albo R) otwiera Ulepszanie z tym przedmiotem, prawy klik czyści.",
     "Nowy dodatek „Szybkie ulepszanie”: zapamiętuje przedmiot wybrany w oknie Ulepszanie; klawisz R (do zmiany) otwiera od razu Ulepszanie z tym przedmiotem.",
