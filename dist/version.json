@@ -1,7 +1,8 @@
 {
-  "version": "16.7",
-  "size": 332632,
+  "version": "16.8",
+  "size": 331382,
   "changes": [
+    "Schowane okienko „⚒ Ulepszanie” wraca samo, gdy otworzysz Ulepszanie w grze. Prostsze nazwy i opisy dodatków.",
     "Okno łupów: bez plakietki „TWÓJ” – zostaje zielona obwódka, tło i poświata.",
     "Okno łupów w grupie: przedmiot, który trafił do Ciebie, ma zieloną obwódkę, zielone tło, plakietkę „TWÓJ” i pulsującą poświatę; łupy innych są przygaszone (po najechaniu wracają).",
     "Ulepszanie: klik w torbę „1” przy składnikach dopełnia dalej z torby 2 i 3, jeśli w pierwszej zabrakło przedmiotów do pełnej siatki.",
