@@ -1,7 +1,9 @@
 {
-  "version": "16.3",
-  "size": 329562,
+  "version": "16.5",
+  "size": 331527,
   "changes": [
+    "Ulepszanie: klik w torbę „1” przy składnikach dopełnia dalej z torby 2 i 3, jeśli w pierwszej zabrakło przedmiotów do pełnej siatki.",
+    "Ulepszanie: Spacja pewniej zatwierdza „Ok” w potwierdzeniu – także gdy „Ulepsz” kliknąłeś myszką.",
     "Okienko ulepszania liczy w górę jak gra: „Dziś ulepszono: 288 / 2000” zamiast ile zostało.",
     "Ulepszanie: Spacja raz – „Ulepsz”, Spacja drugi raz – „Ok” w okienku „Operacja jest nieodwracalna” (tylko tuż po Ulepsz).",
     "Ulepszanie: pulsowanie przycisku „Ulepsz” lepiej widoczne (zielona obwódka i poświata) i pewniejsze wykrywanie pełnej siatki składników.",
