@@ -1,7 +1,9 @@
 {
-  "version": "16.5",
-  "size": 331527,
+  "version": "16.7",
+  "size": 332632,
   "changes": [
+    "Okno łupów: bez plakietki „TWÓJ” – zostaje zielona obwódka, tło i poświata.",
+    "Okno łupów w grupie: przedmiot, który trafił do Ciebie, ma zieloną obwódkę, zielone tło, plakietkę „TWÓJ” i pulsującą poświatę; łupy innych są przygaszone (po najechaniu wracają).",
     "Ulepszanie: klik w torbę „1” przy składnikach dopełnia dalej z torby 2 i 3, jeśli w pierwszej zabrakło przedmiotów do pełnej siatki.",
     "Ulepszanie: Spacja pewniej zatwierdza „Ok” w potwierdzeniu – także gdy „Ulepsz” kliknąłeś myszką.",
     "Okienko ulepszania liczy w górę jak gra: „Dziś ulepszono: 288 / 2000” zamiast ile zostało.",
