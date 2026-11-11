@@ -1,7 +1,8 @@
 {
-  "version": "16.8",
-  "size": 331382,
+  "version": "16.9",
+  "size": 333415,
   "changes": [
+    "Okno przelogowania gry bez ramki i tła – same postacie z czytelnym poziomem nad nimi; pasek z ✕ i przesuwaniem pokazuje się po najechaniu myszką.",
     "Schowane okienko „⚒ Ulepszanie” wraca samo, gdy otworzysz Ulepszanie w grze. Prostsze nazwy i opisy dodatków.",
     "Okno łupów: bez plakietki „TWÓJ” – zostaje zielona obwódka, tło i poświata.",
     "Okno łupów w grupie: przedmiot, który trafił do Ciebie, ma zieloną obwódkę, zielone tło, plakietkę „TWÓJ” i pulsującą poświatę; łupy innych są przygaszone (po najechaniu wracają).",
