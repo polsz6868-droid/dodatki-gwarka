@@ -1,7 +1,8 @@
 {
-  "version": "16.2",
-  "size": 329438,
+  "version": "16.3",
+  "size": 329562,
   "changes": [
+    "Okienko ulepszania liczy w górę jak gra: „Dziś ulepszono: 288 / 2000” zamiast ile zostało.",
     "Ulepszanie: Spacja raz – „Ulepsz”, Spacja drugi raz – „Ok” w okienku „Operacja jest nieodwracalna” (tylko tuż po Ulepsz).",
     "Ulepszanie: pulsowanie przycisku „Ulepsz” lepiej widoczne (zielona obwódka i poświata) i pewniejsze wykrywanie pełnej siatki składników.",
     "Ulepszanie: gdy wszystkie miejsca na składniki są zajęte, przycisk „Ulepsz” pulsuje na zielono; Spacja (do zmiany) klika „Ulepsz”, gdy okno jest otwarte.",
