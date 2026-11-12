@@ -1,7 +1,8 @@
 {
-  "version": "19.4",
-  "size": 366950,
+  "version": "19.5",
+  "size": 367680,
   "changes": [
+    "Przelogowanie: poziomy w oknie przelogowania są przy właściwych postaciach (ta sama kolejność co w grze) i nie nachodzą na siebie w drugim rzędzie.",
     "Przelogowanie: zapisane postacie zastępcy pokazują się też w oknie przelogowania gry (z niebieską ramką i ↻).",
     "Przelogowanie: przycisk „Pobierz postacie zastępcy” – gdy grasz zastępcą, zapisuje jego postacie, żeby można je było przypisać do skrótów i elit.",
     "Przelogowanie: skróty i przyciski przy elitach przelogowują tą samą drogą co okno przelogowania gry – działa też na zastępców.",
