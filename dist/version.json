@@ -1,7 +1,10 @@
 {
-  "version": "17.7",
-  "size": 347017,
+  "version": "18.0",
+  "size": 350220,
   "changes": [
+    "Okienko ⚒ Ulepszanie: kółko zębate ⚙ otwiera od razu ustawienia ulepszania.",
+    "Ulepszanie: gdy w torbach zostanie np. 5 wolnych miejsc, okno Ulepszania otwiera się samo. Przełącznik „AUTO ≤5” w okienku ⚒, liczbę ustawisz w menu G.",
+    "Ulepszanie: zbyt szybkie Spacje nie wywołują już „błędu wewnętrznego” – dodatek czeka, aż gra skończy poprzedni krok (dobieranie, ulepszenie), zanim zrobi następny.",
     "Ulepszanie całe na klawiaturze: R → Spacja (dobiera składniki z toreb 1–3) → Spacja („Ulepsz”) → Spacja („Ok” i zamknięcie okna).",
     "Ulepszanie: po drugiej Spacji („Ok”) okno rzemiosła zamyka się samo (do wyłączenia w ustawieniach).",
     "Timery: wykryty heros z czatu gry („… grasuje w: …”) – komunikat z dźwiękiem i mapa pod herosem w timerach, także bez okna Lootloga.",
