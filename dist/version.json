@@ -1,7 +1,8 @@
 {
-  "version": "19.0",
-  "size": 362887,
+  "version": "19.1",
+  "size": 363200,
   "changes": [
+    "Aktualizacje: jeśli nowa wersja jest już pobrana, a gra działa na starej, pojawia się przycisk „Odśwież grę” zamiast „aktualna”.",
     "Przelogowanie: przycisk „⏺ Nagraj” zbiera dane o tym, jak gra przelogowuje na zastępcę (bez haseł i wartości ciasteczek) – potrzebne, żeby skróty działały też na zastępców.",
     "Przelogowanie: okno przelogowania zawsze bez ramki i tła, także po najechaniu – zostają same postacie z poziomami.",
     "Kamyki: kamienie z potworkami bez podpisu (obrazek wystarcza), nazwa mapy tylko na zwykłych kamieniach.",
