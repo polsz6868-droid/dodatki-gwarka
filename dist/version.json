@@ -1,7 +1,8 @@
 {
-  "version": "18.9",
-  "size": 358174,
+  "version": "19.0",
+  "size": 362887,
   "changes": [
+    "Przelogowanie: przycisk „⏺ Nagraj” zbiera dane o tym, jak gra przelogowuje na zastępcę (bez haseł i wartości ciasteczek) – potrzebne, żeby skróty działały też na zastępców.",
     "Przelogowanie: okno przelogowania zawsze bez ramki i tła, także po najechaniu – zostają same postacie z poziomami.",
     "Kamyki: kamienie z potworkami bez podpisu (obrazek wystarcza), nazwa mapy tylko na zwykłych kamieniach.",
     "Kamyki: czytelniej – podpis mapy tylko na kamieniach (zwoje bez zmian, można włączyć w ustawieniach), większa i prostsza czcionka, ciemne tło tylko pod kamieniami z potworkami.",
