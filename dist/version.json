@@ -1,7 +1,12 @@
 {
-  "version": "17.3",
-  "size": 339283,
+  "version": "17.5",
+  "size": 345484,
   "changes": [
+    "Timery: wykryty heros z czatu gry („… grasuje w: …”) – komunikat z dźwiękiem i mapa pod herosem w timerach, także bez okna Lootloga.",
+    "Timery: najbliższy resp w nazwie karty przeglądarki, gdy grasz w innej karcie (np. „⏱ 1:42 Bergermona”).",
+    "Timery: na mapie elity/herosa z timerem pod tabliczką widać „resp za 2:13” albo „trwa okno respu”.",
+    "Timery przy kilku gildiach: brany jest najnowszy timer potwora (jak w Lootlogu), a nie najstarszy – koniec z pokazywaniem „respi”, gdy inna gildia już go zbiła. To samo w przyciskach przelogowania przy elitach.",
+    "Timery: ręcznie zresetowany timer ma pomarańczowe „R” przed nazwą (jak w Lootlogu), a w dymku „timer zresetowany ręcznie” / „czas wpisany ręcznie”.",
     "Timery: zgłoszenia z Powiadomień Lootloga rozpoznawane po ich numerze, a nie po tekście – to samo zgłoszenie nie liczy się już co minutę od nowa (przyczyna migania). Poprawne nazwy okien Lootloga w „Wielkość okien”.",
     "Nowe menu G: po lewej lista dodatków jako ikonki z napisem Włączony/Wyłączony (klik przełącza), po prawej opis i ustawienia wybranego dodatku, na dole „Włączone: X z Y”.",
     "Ulepszanie: w ustawieniach wybierasz, jakie przedmioty brać do spalenia – pospolite, unikatowe, heroiczne (gra domyślnie bierze tylko pospolite; związanych nigdy).",
