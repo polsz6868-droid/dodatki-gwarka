@@ -1,7 +1,8 @@
 {
-  "version": "18.2",
-  "size": 354102,
+  "version": "18.3",
+  "size": 354838,
   "changes": [
+    "Kamyki: „Skopiuj dane kamyków” zbiera też dane samych kamieni (nazwa, ikona) – potrzebne do poprawy ich wyglądu.",
     "Kamyki: przycisk „Skopiuj dane kamyków” w ustawieniach – do poprawienia wyglądu ikon potworków na kamieniach.",
     "Wydajność: animacje tabliczki z nickiem (zorza, fala, błysk krawędzi, połysk złota) liczy karta graficzna zamiast procesora – motyw zużywa kilka razy mniej mocy.",
     "Wydajność: timery, powiadomienia i czat Lootloga znajdują okna Lootloga po ich identyfikatorze zamiast przeszukiwać całą stronę co 2 s.",
