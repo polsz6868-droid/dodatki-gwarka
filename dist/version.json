@@ -1,7 +1,8 @@
 {
-  "version": "18.1",
-  "size": 352365,
+  "version": "18.2",
+  "size": 354102,
   "changes": [
+    "Kamyki: przycisk „Skopiuj dane kamyków” w ustawieniach – do poprawienia wyglądu ikon potworków na kamieniach.",
     "Wydajność: animacje tabliczki z nickiem (zorza, fala, błysk krawędzi, połysk złota) liczy karta graficzna zamiast procesora – motyw zużywa kilka razy mniej mocy.",
     "Wydajność: timery, powiadomienia i czat Lootloga znajdują okna Lootloga po ich identyfikatorze zamiast przeszukiwać całą stronę co 2 s.",
     "Okienko ⚒ Ulepszanie: kółko zębate ⚙ otwiera od razu ustawienia ulepszania.",
