@@ -1,7 +1,8 @@
 {
-  "version": "18.5",
-  "size": 357175,
+  "version": "18.6",
+  "size": 357858,
   "changes": [
+    "Kamyki: kamienie Czerwonego Smoka (z potworkami) też dostają ciemne tło i nazwę mapy – z pomarańczową ramką, żeby odróżniały się od zwykłych.",
     "Kamyki: „Skopiuj dane kamyków” zbiera krótko wszystkie przedmioty z otwartej torby (do rozpoznania kamieni z potworkami).",
     "Kamyki: kamienie teleportujące w torbach mają ciemne, okrągłe tło pod potworkiem zamiast jaskraworóżowego, nazwę mapy na dole kratki i liczbę sztuk na górze.",
     "Kamyki: „Skopiuj dane kamyków” zbiera też dane samych kamieni (nazwa, ikona) – potrzebne do poprawy ich wyglądu.",
