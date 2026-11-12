@@ -1,7 +1,9 @@
 {
-  "version": "18.0",
-  "size": 350220,
+  "version": "18.1",
+  "size": 352365,
   "changes": [
+    "Wydajność: animacje tabliczki z nickiem (zorza, fala, błysk krawędzi, połysk złota) liczy karta graficzna zamiast procesora – motyw zużywa kilka razy mniej mocy.",
+    "Wydajność: timery, powiadomienia i czat Lootloga znajdują okna Lootloga po ich identyfikatorze zamiast przeszukiwać całą stronę co 2 s.",
     "Okienko ⚒ Ulepszanie: kółko zębate ⚙ otwiera od razu ustawienia ulepszania.",
     "Ulepszanie: gdy w torbach zostanie np. 5 wolnych miejsc, okno Ulepszania otwiera się samo. Przełącznik „AUTO ≤5” w okienku ⚒, liczbę ustawisz w menu G.",
     "Ulepszanie: zbyt szybkie Spacje nie wywołują już „błędu wewnętrznego” – dodatek czeka, aż gra skończy poprzedni krok (dobieranie, ulepszenie), zanim zrobi następny.",
