@@ -1,7 +1,8 @@
 {
-  "version": "17.6",
-  "size": 346129,
+  "version": "17.7",
+  "size": 347017,
   "changes": [
+    "Ulepszanie całe na klawiaturze: R → Spacja (dobiera składniki z toreb 1–3) → Spacja („Ulepsz”) → Spacja („Ok” i zamknięcie okna).",
     "Ulepszanie: po drugiej Spacji („Ok”) okno rzemiosła zamyka się samo (do wyłączenia w ustawieniach).",
     "Timery: wykryty heros z czatu gry („… grasuje w: …”) – komunikat z dźwiękiem i mapa pod herosem w timerach, także bez okna Lootloga.",
     "Timery: najbliższy resp w nazwie karty przeglądarki, gdy grasz w innej karcie (np. „⏱ 1:42 Bergermona”).",
