@@ -1,7 +1,11 @@
 {
-  "version": "16.9",
-  "size": 333415,
+  "version": "17.3",
+  "size": 339283,
   "changes": [
+    "Timery: zgłoszenia z Powiadomień Lootloga rozpoznawane po ich numerze, a nie po tekście – to samo zgłoszenie nie liczy się już co minutę od nowa (przyczyna migania). Poprawne nazwy okien Lootloga w „Wielkość okien”.",
+    "Nowe menu G: po lewej lista dodatków jako ikonki z napisem Włączony/Wyłączony (klik przełącza), po prawej opis i ustawienia wybranego dodatku, na dole „Włączone: X z Y”.",
+    "Ulepszanie: w ustawieniach wybierasz, jakie przedmioty brać do spalenia – pospolite, unikatowe, heroiczne (gra domyślnie bierze tylko pospolite; związanych nigdy).",
+    "Poprawka: okno przelogowania naprawdę bez tła i ramki (tło wraca tylko po najechaniu), poziomy nad postaciami nie są już ucięte.",
     "Okno przelogowania gry bez ramki i tła – same postacie z czytelnym poziomem nad nimi; pasek z ✕ i przesuwaniem pokazuje się po najechaniu myszką.",
     "Schowane okienko „⚒ Ulepszanie” wraca samo, gdy otworzysz Ulepszanie w grze. Prostsze nazwy i opisy dodatków.",
     "Okno łupów: bez plakietki „TWÓJ” – zostaje zielona obwódka, tło i poświata.",
