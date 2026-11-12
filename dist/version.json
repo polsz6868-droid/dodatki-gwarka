@@ -1,7 +1,8 @@
 {
-  "version": "17.5",
-  "size": 345484,
+  "version": "17.6",
+  "size": 346129,
   "changes": [
+    "Ulepszanie: po drugiej Spacji („Ok”) okno rzemiosła zamyka się samo (do wyłączenia w ustawieniach).",
     "Timery: wykryty heros z czatu gry („… grasuje w: …”) – komunikat z dźwiękiem i mapa pod herosem w timerach, także bez okna Lootloga.",
     "Timery: najbliższy resp w nazwie karty przeglądarki, gdy grasz w innej karcie (np. „⏱ 1:42 Bergermona”).",
     "Timery: na mapie elity/herosa z timerem pod tabliczką widać „resp za 2:13” albo „trwa okno respu”.",
