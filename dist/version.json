@@ -1,7 +1,8 @@
 {
-  "version": "19.7",
-  "size": 368177,
+  "version": "19.8",
+  "size": 369204,
   "changes": [
+    "Szybciej: dodatki nie przeszukują już całej strony w poszukiwaniu okien Lootloga, pasek mapy nie mierzy się co chwilę, kamyki i efekt legendy pracują tylko wtedy, gdy trzeba.",
     "Prościej: tabliczka z nickiem bez animacji, iskier i płomieni, łupy pojawiają się spokojnie, bez błysku. Wszystko da się włączyć z powrotem w Motywie.",
     "Prościej: resp na mapie tylko dla elit II, okienko ulepszania zamyka się na dobre ✕, kamyki domyślnie same potworki (bez podpisów i tła).",
     "Przelogowanie: poziomy w oknie przelogowania są przy właściwych postaciach (ta sama kolejność co w grze) i nie nachodzą na siebie w drugim rzędzie.",
