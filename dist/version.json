@@ -1,7 +1,9 @@
 {
-  "version": "19.5",
-  "size": 367680,
+  "version": "19.7",
+  "size": 368177,
   "changes": [
+    "Prościej: tabliczka z nickiem bez animacji, iskier i płomieni, łupy pojawiają się spokojnie, bez błysku. Wszystko da się włączyć z powrotem w Motywie.",
+    "Prościej: resp na mapie tylko dla elit II, okienko ulepszania zamyka się na dobre ✕, kamyki domyślnie same potworki (bez podpisów i tła).",
     "Przelogowanie: poziomy w oknie przelogowania są przy właściwych postaciach (ta sama kolejność co w grze) i nie nachodzą na siebie w drugim rzędzie.",
     "Przelogowanie: zapisane postacie zastępcy pokazują się też w oknie przelogowania gry (z niebieską ramką i ↻).",
     "Przelogowanie: przycisk „Pobierz postacie zastępcy” – gdy grasz zastępcą, zapisuje jego postacie, żeby można je było przypisać do skrótów i elit.",
