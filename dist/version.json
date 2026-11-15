@@ -1,7 +1,8 @@
 {
-  "version": "20.0",
-  "size": 371253,
+  "version": "20.1",
+  "size": 371481,
   "changes": [
+    "Timery: grupa „Pozostałe” (elity, elity III, bossowie i inne potwory spoza głównych kategorii) jest teraz widoczna – wcześniej była domyślnie ukryta.",
     "Ulepszanie: po „Ok” okno rzemiosła zostaje otwarte, jeśli w torbach są jeszcze przedmioty do spalenia – następna Spacja od razu je dobiera.",
     "Ulepszanie: przycisk – zwija okienko do samej ikonki młotka; kliknięcie młotka rozwija je z powrotem.",
     "Szybciej: dodatki nie przeszukują już całej strony w poszukiwaniu okien Lootloga, pasek mapy nie mierzy się co chwilę, kamyki i efekt legendy pracują tylko wtedy, gdy trzeba.",
