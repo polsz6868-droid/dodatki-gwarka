@@ -1,7 +1,9 @@
 {
-  "version": "20.3",
-  "size": 379626,
+  "version": "20.5",
+  "size": 381011,
   "changes": [
+    "Resp na mapie: subtelniejszy napis – mniejszy, przygaszony, na lekko rozmytym tle.",
+    "Wrogowie: okienko dyskretne – rozmyte, ciemne szkło z cienkim czerwonym paskiem, bez czerwonej poświaty. Nowy, cichszy dźwięk i wybór dźwięku w ustawieniach.",
     "Motyw: gotowe wyglądy – Minimalny, Czysty i Pełny – jednym kliknięciem. Szczegółowe ustawienia schowane pod „Więcej ustawień”.",
     "Timery: tryb kompaktowy (☰ w panelu), kolor czasu (zielony – dużo czasu, żółty – resp za mniej niż 10 min) i własne grupy (prawy klik na wierszu → Grupa).",
     "Timery: grupa „Pozostałe” (elity, elity III, bossowie i inne potwory spoza głównych kategorii) jest teraz widoczna – wcześniej była domyślnie ukryta.",
