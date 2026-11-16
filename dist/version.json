@@ -1,7 +1,12 @@
 {
-  "version": "20.6",
-  "size": 382620,
+  "version": "21.1",
+  "size": 385167,
   "changes": [
+    "Timery: miganie nie trwa bez końca – kończy się, gdy heros jest zbity (też wg „Wykrytych herosów”), gdy zamkniesz powiadomienie w Lootlogu, po 10 min dla herosa albo po kliknięciu w wiersz.",
+    "Timery: usunięty czas respu w nazwie karty przeglądarki.",
+    "Przypomnienia: po wejściu do gry dodatek sam sprawdza (bez otwierania okna), czy darmowe rzeczy z Aktualności są odebrane – jeśli tak, przypomnienie się nie pokazuje.",
+    "Przypomnienia: dodatek sprawdza w oknie Aktualności, czy darmowe rzeczy są już odebrane – jeśli tak, nie przypomina, nawet gdy gra zostawia znaczek „nowe”.",
+    "Przypomnienia: Aktualności nie wyskakują przy każdym wejściu – po otwarciu albo „Później” (także gdy otworzysz je sam) cisza przez 20 godzin.",
     "Timery: regulowana wysokość panelu – przeciągnij pasek na dole panelu albo suwak w ustawieniach (dwuklik w pasek – znowu do dołu ekranu).",
     "Resp na mapie: subtelniejszy napis – mniejszy, przygaszony, na lekko rozmytym tle.",
     "Wrogowie: okienko dyskretne – rozmyte, ciemne szkło z cienkim czerwonym paskiem, bez czerwonej poświaty. Nowy, cichszy dźwięk i wybór dźwięku w ustawieniach.",
