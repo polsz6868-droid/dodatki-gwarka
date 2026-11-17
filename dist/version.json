@@ -1,7 +1,8 @@
 {
-  "version": "21.2",
-  "size": 385247,
+  "version": "21.3",
+  "size": 389338,
   "changes": [
+    "Lżej i płynniej: migające timery, poświata łupów, niskie życie, kula i pasek doświadczenia pulsują teraz tylko przezroczystością (bez przemalowywania co klatkę). Dodatki słuchają też ustawień systemu „ogranicz ruch” i „ogranicz przezroczystość”.",
     "Timery: żółty kolor czasu dopiero w ostatniej minucie przed respem (wcześniej 10 min).",
     "Timery: miganie nie trwa bez końca – kończy się, gdy heros jest zbity (też wg „Wykrytych herosów”), gdy zamkniesz powiadomienie w Lootlogu, po 10 min dla herosa albo po kliknięciu w wiersz.",
     "Timery: usunięty czas respu w nazwie karty przeglądarki.",
